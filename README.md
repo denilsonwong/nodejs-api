@@ -30,6 +30,10 @@ You'll also need to activate a couple of APIs in Google Cloud, the first deploym
 Deploy To Google Cloud Run Using Github Actions by follow the instruction from the website below: 
 https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0
 
+Issue encountered and yet to solve: 
+No credentials detected, skipping authentication
+Error: google-github-actions/setup-gcloud failed with: no credentials provided to export
+
 Getting updates from GitHub via Telegram Bot by follow the instruction from the website below:
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
 
