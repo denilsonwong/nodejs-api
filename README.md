@@ -25,3 +25,12 @@ In order for this to be provisioned on your Google Cloud instance, you need to m
 * GCP_PROJECT
 
 You'll also need to activate a couple of APIs in Google Cloud, the first deployment will probably fail and point you into the right direction. Alternatively, you could deploy the first version manually.
+
+#New try#
+Deploy To Google Cloud Run Using Github Actions by follow the instruction from the website below: 
+https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0
+
+Getting updates from GitHub via Telegram Bot by follow the instruction from the website below:
+https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
+
+
