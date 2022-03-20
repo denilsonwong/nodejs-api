@@ -39,7 +39,9 @@ Found that the error could be from updated the secrets at dependabot secret sect
 
 From that, create an environment with name Configure deploy to google cloud platform and added the secrets accordingly. 
 
-Getting updates from GitHub via Telegram Bot by follow the instruction from the website below:
+Getting updates from GitHub via Telegram Bot by taking the reference from the website below:
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
+
+https://medium.com/cocoaacademymag/how-to-integrate-github-actions-with-slack-telegram-and-whatsapp-67a4dca0f17d
 
 
