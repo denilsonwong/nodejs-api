@@ -44,7 +44,9 @@ https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
 https://medium.com/cocoaacademymag/how-to-integrate-github-actions-with-slack-telegram-and-whatsapp-67a4dca0f17d
 
 *realised that it didn't work (loading for infinte period of time) as i changed the code (appleboy/telegram-action@master) to (denilsonwong/nodejs-api@master)
+
 *changed it back to the original code, didn't work still with error: 2022/03/21 01:28:58 missing telegram token or user list
+
 *tried it with my other repo, https://github.com/denilsonwong/backend-sample ; managed to run it successfully.
 
 
