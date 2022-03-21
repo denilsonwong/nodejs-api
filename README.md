@@ -35,9 +35,8 @@ Issue encountered and yet to solve:
 No credentials detected, skipping authentication
 Error: google-github-actions/setup-gcloud failed with: no credentials provided to export
 
-Found that the error could be from updated the secrets at dependabot secret section. 
-
-From that, create an environment with name Configure deploy to google cloud platform and added the secrets accordingly. 
+*Found that the error could be from updated the secrets at dependabot secret section. 
+*From that, created an environment with name Configure deploy to google cloud platform and added the secrets accordingly, but still the same error occurred.
 
 Getting updates from GitHub via Telegram Bot by taking the reference from the website below:
 https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/
